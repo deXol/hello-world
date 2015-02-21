@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1361135495 source:c:\users\dexol\documents\suli\alga2\program\rendezett_mintafa_2pointer\mintafa\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+
